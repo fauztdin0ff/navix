@@ -406,6 +406,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
    window.addEventListener("load", () => ScrollTrigger.refresh());
-   window.addEventListener("resize", () => ScrollTrigger.refresh());
 });
 
